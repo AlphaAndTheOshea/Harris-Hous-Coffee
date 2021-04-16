@@ -31,7 +31,7 @@
                 <div class="text-center intro-text p-5 rounded bg-faded">
                     <h2 class="section-heading mb-4"><span class="section-heading-upper">Fresh Coffee</span><span class="section-heading-lower">ALL DAY LONG</span></h2>
                     <p class="mb-3">Proud to be the only coffee company in Lauderdale County to be open 24/7!</p>
-                    <div class="mx-auto intro-button"><a class="btn btn-secondary d-inline-block mx-auto btn-xl" role="button" href="#" style="background: var(--bs-purple);">Visit Us Today!</a></div>
+                    <div class="mx-auto intro-button"><a class="btn btn-secondary d-inline-block mx-auto btn-xl" role="button" href="https://www.google.com/maps/place/Rivertown+Coffee/@34.8013776,-87.6773734,17z/data=!3m1!4b1!4m5!3m4!1s0x887d485e83ed0611:0xdafcfd458783d417!8m2!3d34.8013776!4d-87.6751847" style="background: var(--bs-purple);">Visit Us Today!</a></div>
                 </div>
             </div>
         </div>
