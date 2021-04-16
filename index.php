@@ -17,7 +17,7 @@
         <div class="container"><img class="flex-grow-0" src="assets/img/CoffeeLogo.png" style="width: 44px;font-size: 0px;padding: 0px;margin: 0px;border-radius: 2px;"><a class="navbar-brand text-uppercase d-lg-none text-expanded" href="index.php" style="font-size: 17px;background: transparent;border-radius: 0px;border-top-left-radius: 0px;border-bottom-right-radius: 18px;border-top-right-radius: 18px;width: 190.203px;height: 28px;text-align: left;color: rgb(222,219,218);padding: 0px 0px;margin: -36px;margin-right: 0px;font-family: Raleway, sans-serif;">Harris Hous Coffee Co.</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navbarResponsive"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about.html">About us</a></li>
                     <li class="nav-item"><a class="nav-link" href="products.html">Menu &amp; Products</a></li>
                     <li class="nav-item"><a class="nav-link" href="store.html">Store</a></li>
